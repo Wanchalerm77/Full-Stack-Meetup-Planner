@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb+srv://wanhonghom:Komm123456@justacluster-as6z7.mongodb.net/test?retryWrites=true",
+    "database": "meetupz-app",
+    "password": "Komm123456",
+    "name": "db",
+    "user": "wanhonghom",
+    "connector": "mongodb"
+  }
+}
